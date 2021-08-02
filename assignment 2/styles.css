@@ -1,0 +1,13 @@
+body{
+    background-color:greenyellow;
+}
+h1{
+    text-align: center;
+    padding: top 20px;
+}
+hr{
+    border: 1px solid red;}
+#style{
+    background-color:teal;
+    color:whitesmoke;
+}
